@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/yokotaerik/treina_e_treina_api
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/yokotaerik/treina_e_treina_frontend
