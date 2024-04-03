@@ -1,6 +1,6 @@
 # YK-Train
 
-O YK-Train é uma aplicação desenvolvida para acompanhar o progresso na academia, projetada com um foco especial no backend para oferecer uma experiência completa e eficiente aos usuários.
+O YK-Train é uma aplicação desenvolvida para acompanhar o progresso na academia.
 
 ## Visão Geral
 
